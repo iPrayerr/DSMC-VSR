@@ -2,7 +2,7 @@
 
 This repo is an official PyTorch implementation of our AAAI 2021 paper "Large Motion Video Super-Resolution with Dual Subnet and Multi-Stage Communicated Upsampling" ([DSMC](https://ojs.aaai.org/index.php/AAAI/article/view/16310)). 
 
-![image-20211201215511783](C:\Users\iPray\AppData\Roaming\Typora\typora-user-images\image-20211201215511783.png)
+![DSMC](./arc_DSMC.png)
 
 ## Dependencies
 
